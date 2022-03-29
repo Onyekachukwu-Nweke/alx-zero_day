@@ -1,1 +1,1 @@
-My first readme
+some directories have been edited bash, js
