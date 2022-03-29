@@ -1,5 +1,9 @@
-st
-
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
 tramp
 
 .\#*
@@ -75,5 +79,6 @@ flycheck_*.el
 # directory configuration
 
 .dir-locals.el
+
 
 
